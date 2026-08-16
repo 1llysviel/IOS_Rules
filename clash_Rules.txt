@@ -1,10 +1,2 @@
 payload:
-  - 'hanime1'
   - 'asmr'
-  - 'exhentai'
-  - 'e-hentai'
-  - 'ehgt.org'
-  - 'nhentai'
-  - 'hitomi.la'
-  - 'picacomic'
-  - 'gold-usergenerate'
